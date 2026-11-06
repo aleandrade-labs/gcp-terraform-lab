@@ -20,7 +20,7 @@ variable "project" {
 
 variable "target_size" {
   type    = number
-  default = 2
+  default = 3
 }
 
 variable "group1_region" {
